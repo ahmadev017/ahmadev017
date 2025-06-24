@@ -37,35 +37,27 @@
 
 ## 🛠️ Projects
 
-Here are some of the full-stack and UI-rich applications I’ve built:
+Here are a few projects I’ve worked on recently:
 
-- 👨‍⚕️ **Doctor Appointment Booking App**  
-  A full-featured platform where users can book appointments with doctors. Includes authentication, time slot booking, and more.  
-  _Frontend: React + Tailwind | Backend: Node.js, MongoDB_
+- 🔗 **[Doctor Appointment Booking App](#)** – React, Tailwind, Node, MongoDB  
+- 🔗 **[Doctor App Admin Panel](#)** – Admin side of the doctor booking system  
+- 🔗 **[AI Blog App](#)** – Create and publish blogs using AI  
+- 🔗 **[Airbnb Clone](#)** – A beautiful Airbnb UI with listings, booking, and auth  
+- 🔗 **[Portfolio Website](https://ahmadsportfolio.vercel.app/)** – My personal portfolio built in React  
+- 🔗 **[Movie List App](#)** – React app that fetches and displays movie data via API  
+- 🔗 **[News App](#)** – News from various categories using React & API  
+- 🔗 **[ToDo App](#)** – A task management app with a clean UI  
+- 🔗 **[RentalRide – Vehicle Rental System](#)** – MERN full-stack project inspired by StoreSync
 
-- 🧑‍💼 **Doctor App Admin Panel**  
-  Admin dashboard for managing doctors, appointments, and users. Includes secure login and powerful control features.  
-  _Technologies: React, Tailwind, Express, MongoDB_
-
-- 📄 **AI Blog App**  
-  A blog generator using AI to help users create, edit, and publish content with ease.  
-  _Uses: OpenAI API, MERN stack_
-
-- 🏠 **Airbnb Clone**  
-  A beautiful clone of Airbnb featuring listings, user auth, bookings, and responsive UI.  
-  _Stack: React, Tailwind CSS, Node.js, MongoDB_
-
-- 🌐 **Portfolio Website**  
-  A modern portfolio site showcasing my projects, skills, and contact form.  
-  _Built using: React, Tailwind, Framer Motion_
+> _More projects coming soon..._
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadraza&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadraza&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadev017&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadev017&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -74,11 +66,12 @@ Here are some of the full-stack and UI-rich applications I’ve built:
 
 - 🌐 Portfolio: [https://ahmadsportfolio.vercel.app/](https://ahmadsportfolio.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/ahmad-raza-dev](https://www.linkedin.com/in/ahmad-raza-dev/)
-- 📫 Email: **ahmdraza01708@gmail.com**
+- 📫 Email: [ahmdraza01708@gmail.com](mailto:ahmdraza01708@gmail.com)
 
 ---
 
 _Thanks for visiting my profile! Stay tuned for more exciting projects._
+
 
 
 
