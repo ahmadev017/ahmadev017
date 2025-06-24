@@ -37,15 +37,27 @@
 
 ## 🛠️ Projects
 
-Here are a few projects I’ve worked on recently:
+Here are some of the full-stack and UI-rich applications I’ve built:
 
-- 🔗 **[Doctor Appointment Booking App](#)** – React, Tailwind, Node, MongoDB
-- 🔗 **[Movie List App (API-based)](#)**
-- 🔗 **[News App](#)** – Built using React and external API
-- 🔗 **[ToDo App](#)** – React-based with modern UI
-- 🔗 **[RentalRide - Vehicle Rental System](#)** – Full-Stack MERN app (inspired by StoreSync)
+- 👨‍⚕️ **Doctor Appointment Booking App**  
+  A full-featured platform where users can book appointments with doctors. Includes authentication, time slot booking, and more.  
+  _Frontend: React + Tailwind | Backend: Node.js, MongoDB_
 
-> More projects coming soon...
+- 🧑‍💼 **Doctor App Admin Panel**  
+  Admin dashboard for managing doctors, appointments, and users. Includes secure login and powerful control features.  
+  _Technologies: React, Tailwind, Express, MongoDB_
+
+- 📄 **AI Blog App**  
+  A blog generator using AI to help users create, edit, and publish content with ease.  
+  _Uses: OpenAI API, MERN stack_
+
+- 🏠 **Airbnb Clone**  
+  A beautiful clone of Airbnb featuring listings, user auth, bookings, and responsive UI.  
+  _Stack: React, Tailwind CSS, Node.js, MongoDB_
+
+- 🌐 **Portfolio Website**  
+  A modern portfolio site showcasing my projects, skills, and contact form.  
+  _Built using: React, Tailwind, Framer Motion_
 
 ---
 
@@ -60,13 +72,14 @@ Here are a few projects I’ve worked on recently:
 
 ## 🤝 Let's Connect
 
-- 🌐 Portfolio: [your-portfolio-link.com](#)
-- 💼 LinkedIn: [linkedin.com/in/ahmadraza](#)
-- 📫 Email: **your-email@example.com**
+- 🌐 Portfolio: [https://ahmadsportfolio.vercel.app/](https://ahmadsportfolio.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/ahmad-raza-dev](https://www.linkedin.com/in/ahmad-raza-dev/)
+- 📫 Email: **ahmdraza01708@gmail.com**
 
 ---
 
 _Thanks for visiting my profile! Stay tuned for more exciting projects._
+
 
 
 
