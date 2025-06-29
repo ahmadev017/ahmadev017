@@ -65,8 +65,9 @@ Here are some of the full-stack and UI-rich applications I’ve built:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadev017&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ahmadev017&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ahmadev017&theme=tokyonight" width="48%" />
 </p>
+
 
 ---
 
