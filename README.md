@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center">Passionate Full-Stack MERN Developer | Open to Remote Internships</h3>
+<h3 align="center">Passionate Full-Stack MERN Developer | Open to Remote and onsite work</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Always+learning+new+tech+%F0%9F%93%9A&font=Fira+Code&center=true&width=440&height=45&color=00F7FF&vCenter=true&pause=1000" alt="Typing SVG" />
@@ -10,11 +10,10 @@
 ## 🚀 About Me
 
 - 💻 I’m a self-motivated **MERN Stack Developer**
-- 🎓 Currently pursuing **BSCS (4th Semester)** from **Khwaja Fareed University**
+- 🎓 Currently pursuing **BSCS (6th Semester)** from **Khwaja Fareed University**
 - 🌍 Based in **Rahim Yar Khan, Pakistan**
 - 🎯 Focused on building **real-world full-stack applications** with modern UI/UX
-- 🌐 Eager to land **remote internships or junior roles** in **Europe, USA, or the UK**
-- ✨ Also learning how to use **AI tools** for boosting web development
+- ✨ Also know how to use **AI tools** for boosting web development
 
 ---
 
@@ -39,6 +38,19 @@
 
 Here are some of the full-stack and UI-rich applications I’ve built:
 
+- ❖ **MERN Stack Developer | VirtueNetz Pakistan, Rahim Yar Khan**
+(October 2025 - March 2026) 
+● Built and maintained scalable and high-performance full-stack applications using MERN stack 
+and PostgreSQL 
+● Developed responsive and reusable UI components using React.js and Tailwind CSS 
+● Designed and integrated secure REST APIs for authentication and data management 
+● Implemented JWT-based authentication and role-based access control in production applications 
+● Created user-friendly dashboards with personalized data views, increasing user engagement by 
+40% 
+● Optimized performance by debugging and improving application workflows 
+● Collaborated in an agile environment using Git and modern development practices 
+  _Frontend: React + Tailwind | Backend: Node.js, MongoDB_
+  
 - 👨‍⚕️ **Doctor Appointment Booking App**  
   A full-featured platform where users can book appointments with doctors. Includes authentication, time slot booking, and more.  
   _Frontend: React + Tailwind | Backend: Node.js, MongoDB_
