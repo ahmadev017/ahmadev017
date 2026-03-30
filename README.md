@@ -10,11 +10,10 @@
 ## 🚀 About Me
 
 - 💻 I’m a self-motivated **MERN Stack Developer**
-- 🎓 Currently pursuing **BSCS (4th Semester)** from **Khwaja Fareed University**
+- 🎓 Currently pursuing **BSCS (6th Semester)** from **Khwaja Fareed University**
 - 🌍 Based in **Rahim Yar Khan, Pakistan**
 - 🎯 Focused on building **real-world full-stack applications** with modern UI/UX
-- 🌐 Eager to land **remote internships or junior roles** in **Europe, USA, or the UK**
-- ✨ Also learning how to use **AI tools** for boosting web development
+- ✨ Also know how to use **AI tools** for boosting web development
 
 ---
 
@@ -39,6 +38,19 @@
 
 Here are some of the full-stack and UI-rich applications I’ve built:
 
+- ❖ **MERN Stack Developer | VirtueNetz Pakistan, Rahim Yar Khan** 
+(October 2025 - March 2026) 
+● Built and maintained scalable and high-performance full-stack applications using MERN stack 
+and PostgreSQL 
+● Developed responsive and reusable UI components using React.js and Tailwind CSS 
+● Designed and integrated secure REST APIs for authentication and data management 
+● Implemented JWT-based authentication and role-based access control in production applications 
+● Created user-friendly dashboards with personalized data views, increasing user engagement by 
+40% 
+● Optimized performance by debugging and improving application workflows 
+● Collaborated in an agile environment using Git and modern development practices
+  _Frontend: React,Next + Tailwind | Backend: Node.js, MongoDB, PGSQL_
+
 - 👨‍⚕️ **Doctor Appointment Booking App**  
   A full-featured platform where users can book appointments with doctors. Includes authentication, time slot booking, and more.  
   _Frontend: React + Tailwind | Backend: Node.js, MongoDB_
@@ -50,10 +62,6 @@ Here are some of the full-stack and UI-rich applications I’ve built:
 - 📄 **AI Blog App**  
   A blog generator using AI to help users create, edit, and publish content with ease.  
   _Uses: OpenAI API, MERN stack_
-
-- 🏠 **Airbnb Clone**  
-  A beautiful clone of Airbnb featuring listings, user auth, bookings, and responsive UI.  
-  _Stack: React, Tailwind CSS, Node.js, MongoDB_
 
 - 🌐 **Portfolio Website**  
   A modern portfolio site showcasing my projects, skills, and contact form.  
