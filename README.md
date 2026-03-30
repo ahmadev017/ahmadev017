@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center">Passionate Full-Stack MERN Developer | Open to Remote Internships</h3>
+<h3 align="center">Passionate Full-Stack MERN Developer | Open to Remote and onsite work</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Always+learning+new+tech+%F0%9F%93%9A&font=Fira+Code&center=true&width=440&height=45&color=00F7FF&vCenter=true&pause=1000" alt="Typing SVG" />
